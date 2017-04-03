@@ -1,0 +1,11 @@
+{
+	"id" "githubchef",
+	"uid": "1048",
+	"state": "active",
+	"group": "wheel",
+	"comment": "Github Chef",
+	"ingroups": [ "testing" ],
+	"classes": [ "testing" ],
+	"user_type": "person",
+	"ssh_public_key": [ "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCiAH8bwnvbc0ZuG1k+9A7whkjfULMeXricfMgs2MXOw/Wy5eYFKrMXyPr2A2S6zSifvPwh91PGNNMUEQSXa84euWDdwoUBbXuUubmQ01keQEPDLDENg6KdgFIU+tcU/GmQ+be10awvWvJpwp9ns/3npiYQcM/4/HO/kM02/LmQ4dK9DI+hYZCgiVvhZjGruYIJFkM9+xHW5MNtpsraw+X0KQF6RUHXaTxV0akHCbXHIoerPjXWmc4JxYQV5iKn0XOWC4gcFeWEWgTxuxdnjf3+ctLksgPW8LCItv+qzdk0FEFVMBF5Z3m7SFGyuw63601kDKpGw1/d7gqmDjO9jSwX githubchef@gmail.com" ]
+}
