@@ -4,9 +4,9 @@
 	"state": "active",
 	"group": "wheel",
 	"comment": "Roland Wettstein",
-	"ingroups" ["wheel", "testing"],
-	"classes" [ "testing" ],
+	"ingroups": ["wheel", "testing"],
+	"classes": [ "testing" ],
 	"user_type": "person",
-	"ss_public_key" [ "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDS0KCrkSIey/FKIsq0/XnDKhFhZD0ihJ/fMYAiOvXyGzLZOXMDORf3c+i+cyHEUnzCU1GqEc5BrD3yPhE/rfdrkDcRVaTdj6qeIptNy+lOoTU0mg5TAQ/2+nocJy3bGVQLx9hvR3s71fZHtkAHNvSFDjRbKy54OY+WQbCHoNRDWaCrO5vFTuSDq4xb53vWxLSsK7kxCKOS6O1yLt2U3sP8jVJkAp081U3aGnoaPrpeB0mcp0tJ9ReBTq65prZaSuo350b70BB8c1jgpTJ75fW3dk9SOot35/I/x3wQpcfu/UP9hCeplBj9a5YvAIqrIJApDw5NvqlGjyGUyP+FdN1V rwettstein@rwettstein-mbr15.f4tech.com-2015-12-16T09:16:36-0700" ]
+	"ss_public_key": [ "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDS0KCrkSIey/FKIsq0/XnDKhFhZD0ihJ/fMYAiOvXyGzLZOXMDORf3c+i+cyHEUnzCU1GqEc5BrD3yPhE/rfdrkDcRVaTdj6qeIptNy+lOoTU0mg5TAQ/2+nocJy3bGVQLx9hvR3s71fZHtkAHNvSFDjRbKy54OY+WQbCHoNRDWaCrO5vFTuSDq4xb53vWxLSsK7kxCKOS6O1yLt2U3sP8jVJkAp081U3aGnoaPrpeB0mcp0tJ9ReBTq65prZaSuo350b70BB8c1jgpTJ75fW3dk9SOot35/I/x3wQpcfu/UP9hCeplBj9a5YvAIqrIJApDw5NvqlGjyGUyP+FdN1V rwettstein@rwettstein-mbr15.f4tech.com-2015-12-16T09:16:36-0700" ]
 }
 
